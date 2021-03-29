@@ -793,8 +793,6 @@ button,
 @media screen and (max-width: 736px) {
   #header h1 {
     font-size: 2em; }
-  #header h2 {
-    font-size: 1.5em; }
   #header p {
     font-size: 1em; } }
 
